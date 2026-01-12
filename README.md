@@ -27,14 +27,14 @@ O projeto reúne exercícios práticos e exemplos desenvolvidos durante meus est
 
 * Java
 * JDK (Java Development Kit)
-* IDEs: IntelliJ IDEA, Eclipse ou NetBeans
+* IDE: IntelliJ IDEA
 
 ## ▶️ Como Executar
 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/moural9ve/seu-repositorio.git
+git clone https://github.com/moural9ve/Logica-Java.git
 ```
 
 2. Abra o projeto em uma IDE Java
