@@ -1,24 +1,14 @@
+package Exercicios;
+
 import java.util.Scanner;
 
-/*
-horas < 12 Bom dia!
-12 >= horas < 18 Boa tarde!
-horas >= 18 Boa noite! */
-public class EstruturaCondicional {
+/*Fazer um programa para ler um valor inteiro de 1 a 7 representando um
+dia da semana (sendo 1=domingo, 2=segunda, e assim por diante).
+Escrever na tela o dia da semana correspondente, conforme exemplos. */
+
+public class Exercicio10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Digite a hora: ");
-        int hora = sc.nextInt();
-        // if | else | else if
-        if (hora < 12) {
-            System.out.println("Bom dia!");
-        } else if (hora >= 12 && hora < 18) {
-            System.out.println("Boa tarde!");
-        } else {
-            System.out.println("Boa noite!");
-        }
-
-        // switch case
         System.out.print("Digite um número equivalente a um dia da semana: ");
         int dia = sc.nextInt();
 
@@ -49,10 +39,6 @@ public class EstruturaCondicional {
                 break;
         }
 
-        //Expressão condicional ternária |Sintaxe: (condicao)? valorSeVerdadeiro : valorSeFalso; 
-
-        int resultado = (2>4)? 50 :80;
-        System.out.println("Resultado: "+resultado);
         sc.close();
     }
 }
