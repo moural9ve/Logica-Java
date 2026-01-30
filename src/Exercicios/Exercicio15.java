@@ -25,7 +25,6 @@ public class Exercicio15 {
             }
         }
         System.out.println("in: "+in+"\nout: "+out);
-        
 
         sc.close();
     }
