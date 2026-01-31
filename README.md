@@ -19,8 +19,8 @@ O projeto reúne exercícios práticos e exemplos desenvolvidos durante meus est
 * Entrada e saída de dados
 * Estruturas condicionais (`if`, `else`, `switch`)
 * Laços de repetição (`for`, `while`, `do-while`)
-* Vetores e matrizes
-* Métodos e modularização
+* Vetores
+* Funções e Métodos
 * Exercícios práticos e desafios progressivos
 
 ## 🛠️ Tecnologias Utilizadas
